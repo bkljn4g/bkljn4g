@@ -1,16 +1,17 @@
-## Hi there 👋
+<div id="header" align="center"> 
+  <h1>Hi there, I'm Anna 👋</h1>
+<h3>iOS-developer from Earth 🌍, GMT +3</h3>
 
-<!--
-**bkljn4g/bkljn4g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bkljn4g/)](https://www.linkedin.com/in/bkljn4g/)
+  [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/bkljn4g)](https://t.me/bkljn4g)
+  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:bkljn4g@gmail.com)](mailto:bkljn4g@gmail.com)
+</div>
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 👩🏻‍💻 Studied iOS development at Yandex Practicum  
+- 🥑 Currently working on a health-related pet project  
+- 🏝 Passionate about traveling   
+- 👾 Love retro gaming on emulators  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Languages and Tools
+  [![My Skills](https://skillicons.dev/icons?i=swift,git,postman,figma,stackoverflow,apple)](https://skillicons.dev)
