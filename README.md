@@ -14,4 +14,4 @@
 - 👾 Love retro gaming on emulators  
 
 ## 🛠 Languages and Tools
-  [![My Skills](https://skillicons.dev/icons?i=swift,git,postman,figma,stackoverflow,apple)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=swift,git,postman,figma,stackoverflow)](https://skillicons.dev)
