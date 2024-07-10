@@ -15,3 +15,4 @@
 
 ## 🛠 Languages and Tools
   [![My Skills](https://skillicons.dev/icons?i=swift,git,postman,figma,stackoverflow)](https://skillicons.dev)
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/NAME_OF_ICON.svg" width="50"></a>
