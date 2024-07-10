@@ -16,4 +16,5 @@
 ## 🛠 Languages and Tools
   [![My Skills](https://skillicons.dev/icons?i=swift,git,postman,figma,stackoverflow)](https://skillicons.dev)
   <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/xcode-dark.svg" width="49"></a>
-  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/xcode-dark.svg" width="60"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/bash-dark.svg" width="49"></a>
+  <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/bash-light.svg" width="49"></a>
